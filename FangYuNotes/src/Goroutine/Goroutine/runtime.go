@@ -1,0 +1,5 @@
+package Goroutine
+
+func Runtime()  {
+
+}
