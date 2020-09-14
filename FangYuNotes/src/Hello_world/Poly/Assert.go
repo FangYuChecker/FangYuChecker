@@ -33,4 +33,6 @@ func Assert() {
 		fmt.Println("Convert fail")
 	}
 	fmt.Println("GO ON")
+	fmt.Println("GO ON")
+	
 }
